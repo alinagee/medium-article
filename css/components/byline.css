@@ -1,0 +1,36 @@
+.byline {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 24px 0;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: lighter;
+  font-size: 14px;
+}
+
+.author-section {
+  display: flex;
+  align-items: center;
+}
+
+.author-section-info {
+  margin-left: 16px;
+}
+
+.author-section-info p {
+  color: #6b6b6b;
+}
+
+.author-section-flex {
+  display: flex;
+  align-items: center;
+  /*justify-content: space-between;*/
+}
+
+.author-section-flex h3 {
+  margin: 4px 8px 4px 4px;
+}
+
+.author-section-info p {
+  margin: 4px;
+}

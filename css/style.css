@@ -1,0 +1,22 @@
+/* Google Fonts */
+
+/* Components Design */
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/avatar.css");
+@import url("components/buttons.css");
+@import url("components/byline.css");
+@import url("components/lists.css");
+@import url("components/links.css");
+
+/* Fonts & Colors */
+body {
+  margin: 0;
+  font-family: 'Noto Serif JP', serif;
+}
+
+h2 {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+

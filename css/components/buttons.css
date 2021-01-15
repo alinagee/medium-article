@@ -1,0 +1,22 @@
+.button-grey {
+  text-decoration: none;
+  background-color: #908e8e;
+  padding: 4px 8px;
+  border-radius: 4px;
+  color: white;
+}
+
+.button-grey:hover {
+  background-color: #6b6b6b;
+}
+
+.social-button {
+  text-decoration: none;
+  font-size: 24px;
+  padding: 4px;
+  color: #908e8e;
+}
+
+.social-button:hover {
+  color: #6b6b6b;
+}

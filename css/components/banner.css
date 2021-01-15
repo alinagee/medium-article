@@ -1,0 +1,13 @@
+.banner {
+    padding: 288px;
+    background-size: cover;
+    color: white
+}
+
+.banner p {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.banner h1 {
+  font-size: 32px;
+}

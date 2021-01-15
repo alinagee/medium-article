@@ -1,0 +1,23 @@
+.link-gradient {
+  text-decoration: none;
+  font-family: 'Noto Serif JP', serif;
+  font-weight: bold;
+  font-size: 18px;
+  color:#6b6b6b;
+  background-image: linear-gradient(to bottom, rgb(220 243 247), rgb(220 243 247));
+}
+
+.link-gradient:hover {
+  background-image: linear-gradient(to bottom, rgb(123 235 255), rgb(123 235 255));
+}
+
+.link-underline {
+  text-decoration: none;
+  color: black;
+  border-bottom: 4px solid rgb(220 243 247);
+  font-weight: 500;
+}
+
+.link-underline:hover {
+  border-bottom: 4px solid rgb(123 235 255)
+}
